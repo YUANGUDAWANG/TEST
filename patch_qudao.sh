@@ -11,7 +11,7 @@ download_azurlane () {
     # 使用curl命令下载apk文件
     #curl -o blhx.apk  $url
     
-    url="https://github.com/liusj5257/azurlane_anti_name/releases/download/%E5%BD%93%E4%B9%90%E6%B8%A0%E9%81%93/dangle.AzurLane.patched.apk"
+    url="https://url="https://appdl-1-drcn.dbankcdn.com/dl/appdl/application/apk/7e/7e70bd9184a643ddaa4fc6cb9403817c/com.bilibili.blhx.huawei.2211101822.apk?maple=0&trackId=0&distOpEntity=HWSW"
     curl -o blhx.apk -L $url
     
     fi
